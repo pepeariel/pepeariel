@@ -1,7 +1,6 @@
-Hello developers of the world!
-- I'm a civil engineer currently jumping into the data science world
-- I try to use different kinds of data as a weapon to prior decisions in public water management
-- My main programming language is python 
+
+- I try to find gold in data
+- My main tools are python, R and SQL 
 - Here you can find some of my projects 
 
 - 📫 How to reach me:
