@@ -1,7 +1,4 @@
-
-- I try to find gold in data
-- My main tools are python, R and SQL 
-- Here you can find some of my projects 
+Here you can find some data analsys projects created using python, R and SQL
 
 - 📫 How to reach me:
 peddroariel@hotmail.com or 
